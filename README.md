@@ -17,3 +17,6 @@ cat log.log
 ```sql
 select * from pg_class;
 ```
+```sql
+select * from pg_stat_activity;
+```
