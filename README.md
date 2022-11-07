@@ -10,3 +10,7 @@ java
 c++
 
 python
+
+```linux
+cat log.log
+```
