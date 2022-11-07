@@ -14,3 +14,6 @@ python
 ```linux
 cat log.log
 ```
+```sql
+select * from pg_class;
+```
